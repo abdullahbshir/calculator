@@ -1,0 +1,33 @@
+.text-box1{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.text-box2{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    
+}
+.text-box3{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    
+}
+.btn{
+    margin: 10% ;
+    padding-top: -50px;
+    padding-left: 400px;
+    font-size: 25px;
+    max-width: 250px;
+ 
+ 
+ 
+ }
+ .btn button{
+     padding: 10px;
+     margin-bottom: 2px;
+     font-size: 22px;
+     width: 50px;
+ }
